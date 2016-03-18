@@ -31,6 +31,8 @@
 
 @implementation BoardViewController
 
+
+
 - (void)viewDidLoad {
     [super viewDidLoad];
     
@@ -108,5 +110,11 @@
         [self presentViewController:whoWonAlertController animated:YES completion:nil];
     }
 }
+
+
+#pragma mark - psuedocode
+
+//figure out the winning condition
+
 
 @end
