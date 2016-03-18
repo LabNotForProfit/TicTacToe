@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  BoardViewController.h
 //  TicTacToe
 //
 //  Created by ALIREZA TABRIZI on 3/17/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface BoardViewController : UIViewController
 
 @end
-
